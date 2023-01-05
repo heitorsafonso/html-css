@@ -1,0 +1,14 @@
+Circulo cromático é usado para buscar a harmonia entre as cores. para isso é importante ter simetria.
+Cores primárias: Amarelo, vermelho e azul
+Cores secundárias: Laranja, verde e violeta
+Cores terciárias: Mistura entre as cores Primária e Secundárias. São chamados tons pasteis.
+
+Cores frias e quentes são harmónicas.
+
+Uma paleta de cores deve ter entre 3 e 5 cores (exceto branco e preto), partindo sempre de uma cor principal, ou uma cor primária utilizada pela marca.
+
+As cores que mais contrastam partencem a polos opostos em um circulo cromático (cores complementares). esse destaque pode ser usado para mostrar textos por exemplo.
+
+As cores análogas não possuem muito contraste, elas harmonizam e correspondem as posições próximas (cores vizinhas) em um circulo cromático. 
+
+Usando uma tecnica de monocromia é possivel modificar a saturação e a luminosidade para criar tons degradê
