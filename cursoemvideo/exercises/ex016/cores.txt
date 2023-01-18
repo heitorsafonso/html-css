@@ -1,0 +1,15 @@
+Simetria e cores são importantes para o design do site
+
+Círculo Cromático: Utilizado para conseguir harmonizar as cores
+As 12 principais cores são: Amarelo, vermelho e azul, Verde, violeta e laranja, Amarelo-esverdeado, amarelo-alaranjado, vermelho-alaranjado, vermelho-arroxeado, azul-arroxeado, azul-esverdeado, amarelo-esverdeado
+
+Cores primárias: Amarelo, vermelho e azul
+Cores secundárias : Verde, violeta e laranja
+Cores terciarias: Mistura das cores primárias e secundárias, possuem tons pasteis (Ex: Amarelo-esverdeado, amarelo-alaranjado, vermelho-alaranjado, vermelho-arroxeado, azul-arroxeado, azul-esverdeado, amarelo-esverdeado)
+
+Uma paleta de cores deve ter entre 3 e 5 cores
+
+Acessar: 
+color.adobe.com
+paletton.com
+coolors.co
